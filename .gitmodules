@@ -1,0 +1,3 @@
+[submodule "Helpers"]
+	path = Helpers
+	url = http://krr-app-bbgit01/Helpers.git

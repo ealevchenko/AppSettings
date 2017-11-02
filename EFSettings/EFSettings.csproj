@@ -64,7 +64,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Helpers\libClass\libClass.csproj">
+    <ProjectReference Include="..\..\Helpers\libClass\libClass.csproj">
       <Project>{38a8fe37-55f2-4357-a59d-d8c8a8755aa5}</Project>
       <Name>libClass</Name>
     </ProjectReference>
